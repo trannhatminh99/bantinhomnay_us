@@ -40,6 +40,6 @@ export default {
   },
 
   axios: {
-    baseURL: 'https://us.bantinhomnay.com/'
+    baseURL: 'https://www.us.bantinhomnay.com/'
   }
 }
